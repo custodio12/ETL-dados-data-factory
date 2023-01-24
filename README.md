@@ -85,7 +85,7 @@ pedido conforme a imagem:
 
  <img width="281" alt="vendasUltimoAno" src="https://user-images.githubusercontent.com/98350733/214326666-9bba1b02-6417-481b-9e55-ca2e11f4c5bc.png">
 
-
+Para concluir, foi entregue a documentação do projeto utilizando a plataforma <a href="https://pt.overleaf.com/">Overleaf</a>, que utiliza linguaguem <a href="https://pt.wikipedia.org/wiki/LaTeX">LaTeX</a>.
 
 
 
